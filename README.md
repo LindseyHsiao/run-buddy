@@ -12,4 +12,6 @@ A website that offers fitness training services.
 https://lenantino.github.io/run-buddy
 
 ## Contribution
-Made with by Lindsey 
+Made with ❤️ by Lindsey 
+
+### ©️2019 Run Buddy, Inc
